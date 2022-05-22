@@ -1,0 +1,15 @@
+Kolvo (gggg):	914
+price:	2237₴
+yearOfMan:	2008
+Kolvo (ffff):	393
+price:	3033₴
+yearOfMan:	1954
+Kolvo (r):	767
+price:	3230₴
+yearOfMan:	1947
+Kolvo (rrrr):	859
+price:	2892₴
+yearOfMan:	1969
+Kolvo (tttt):	765
+price:	3536₴
+yearOfMan:	1966

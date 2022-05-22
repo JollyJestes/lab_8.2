@@ -1,0 +1,4 @@
+Kolvo (ввв):	898
+price:	3440₴
+yearOfMan:	1993
+manufacture:	Italy
